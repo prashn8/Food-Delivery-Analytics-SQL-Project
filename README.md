@@ -1,6 +1,6 @@
-# 🍽️ Food Delivery Analytics SQL Project
+# Food Delivery Analytics SQL Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes restaurant performance across two major food delivery platforms, Swiggy and Zomato, using PostgreSQL.
 
@@ -8,7 +8,7 @@ The objective was to transform raw restaurant and platform data into meaningful 
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 The project aims to answer real-world business questions such as:
 
@@ -22,7 +22,7 @@ The project aims to answer real-world business questions such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * PostgreSQL
 * SQL
@@ -31,7 +31,7 @@ The project aims to answer real-world business questions such as:
 
 ---
 
-## 📊 SQL Concepts Applied
+##  SQL Concepts Applied
 
 ### Data Exploration
 
@@ -78,7 +78,7 @@ The project aims to answer real-world business questions such as:
 
 ---
 
-## 📈 Key Business Insights Generated
+##  Key Business Insights Generated
 
 ### Revenue Analysis
 
@@ -105,7 +105,7 @@ The project aims to answer real-world business questions such as:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 01_database_setup.sql
@@ -121,7 +121,7 @@ The project aims to answer real-world business questions such as:
 
 ---
 
-## 🚀 Project Highlights
+##  Project Highlights
 
 * Developed 50+ analytical SQL queries
 * Applied advanced SQL concepts used in real-world analytics projects
@@ -131,7 +131,7 @@ The project aims to answer real-world business questions such as:
 
 ---
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Analysis
 * Business Analytics
@@ -144,7 +144,7 @@ The project aims to answer real-world business questions such as:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Prashant Tiwari**
 
